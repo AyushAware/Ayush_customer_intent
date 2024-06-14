@@ -10,3 +10,9 @@ Building an intelligent routing system for customer feedback and experience can 
 3.**Train an ML Model Classification**: Develop and train a machine learning model using labeled data to classify the intents of customer feedback tickets accurately.
 
 4.**Handle New Products**: For newly introduced products, identify potential intents, calculate their embeddings, and add these embeddings to the existing set. Match the embeddings of new reviews against this updated set to accurately extract and classify intents.
+
+
+  
+****Results are Stored in results.csv
+
+
