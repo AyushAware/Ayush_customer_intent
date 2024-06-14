@@ -1,3 +1,4 @@
+
 import nltk
 import chromadb
 from sentence_transformers import SentenceTransformer
@@ -6,7 +7,8 @@ from nltk.tokenize import sent_tokenize
 import json
 import uuid
 
-with open(r'E:\ayush_intent_prediction\intent.json', 'r') as f:
+
+with open('C:\\Users\\Navya\\Desktop\\ayush_project\\intent.json', 'r') as f:
     data=json.load(f)
 
 result = {"groups": []}
@@ -19,7 +21,7 @@ for department, texts in data.items():
             "id": str(uuid.uuid4())
         })
 
-
-file_path = r'E:\ayush_intent_prediction\groups.json'
+file_path = r'C:\Users\Navya\Desktop\ayush_project\groups_final.json'
 with open(file_path, 'w') as file:
     json.dump(result, file, indent=4)
+
