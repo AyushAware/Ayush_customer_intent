@@ -1,0 +1,53 @@
+{
+    "Accounts": [
+      "Account setup/login password management",
+      "Account setup/login multi-factor authentication",
+      "Account Maintenance balance/reserves",
+      "Account Maintenance freeze",
+      "Account Maintenance statement error",
+      "Account Maintenance updating personal/business info",
+      "Account Security unauthorised access hacked",
+      "Account Security unauthorised transactions fraud",
+      "Account Security data privacy/policies",
+      "Account access/usability mobile app",
+      "Account access/usability web app"
+    ],
+    "Cards": [
+      "Cards Credentials issue",
+      "Cards Physical lost/stolen",
+      "Cards Physical activation",
+      "Cards Physical replacement",
+      "Cards Virtual activation",
+      "Cards transactions declined dispute/frozen/funds/limit/client side",
+      "Cards transactions unauthorised fraud"
+    ],
+    "Invoicing": [
+      "Invoice Paid conflict",
+      "Invoice Unpaid pending",
+      "Invoice Unpaid conflict",
+      "Invoice Schedule late",
+      "Invoice drafting/editing",
+      "Invoice cancel",
+      "Invoice notification"
+    ],
+    "Checks": [
+      "Checks Mobile Delivery Delayed",
+      "Checks Mobile Deposite delay",
+      "Checks Mailed Delivery Delayed",
+      "Checks Mailed Deposit delay",
+      "Checks Issuance unauthorised fraud"
+      
+    ],
+    "Transfers": [
+        "Transfers Domestic",
+        "Transfers International Transfer fees",
+        "Transfers International Currency conversion",
+        "Transfers International Wise gateway",
+        "Transfers unauthorised lost funds fraud"
+      ],
+    "Customer Service": [
+      "Customer Service Response late",
+      "Customer Service Response issue unsolved",
+      "Customer Service No Response"
+    ]
+  }

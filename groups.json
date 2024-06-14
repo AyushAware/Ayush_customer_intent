@@ -1,0 +1,194 @@
+{
+    "groups": [
+        {
+            "department": "Accounts",
+            "text": "Account setup/login password management",
+            "id": "0962a8c4-149a-454d-ac47-0151c06d0581"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account setup/login multi-factor authentication",
+            "id": "53f955d9-db5b-497a-8a1b-b758d180275d"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account Maintenance balance/reserves",
+            "id": "dcf88c1d-2567-4d43-bace-af7c06187c26"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account Maintenance freeze",
+            "id": "ee211119-6ec2-4164-b4f0-63f97d6137ba"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account Maintenance statement error",
+            "id": "24df6ec7-df21-42fb-8cb3-c677000c54d1"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account Maintenance updating personal/business info",
+            "id": "9fd2db4e-0728-4136-8b7d-b275107dbcb2"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account Security unauthorised access hacked",
+            "id": "7c31ee1a-93d8-4ec7-afca-e21bda583035"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account Security unauthorised transactions fraud",
+            "id": "e6bd5e0d-321b-4d34-9e41-a234994fba99"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account Security data privacy/policies",
+            "id": "c47184d5-22c4-4afb-bfa7-1cf50250c401"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account access/usability mobile app",
+            "id": "9c015850-0c80-48f2-9c1d-a0589631ab10"
+        },
+        {
+            "department": "Accounts",
+            "text": "Account access/usability web app",
+            "id": "99546fdb-66e4-41ef-b5bb-3bbf0a929991"
+        },
+        {
+            "department": "Cards",
+            "text": "Cards Credentials issue",
+            "id": "30476575-b659-4eac-9917-1dc657982a45"
+        },
+        {
+            "department": "Cards",
+            "text": "Cards Physical lost/stolen",
+            "id": "06f8954d-5d68-4412-b0bc-9ea9f2f3014a"
+        },
+        {
+            "department": "Cards",
+            "text": "Cards Physical activation",
+            "id": "1a134216-75a6-4f09-b636-9ff8606dc382"
+        },
+        {
+            "department": "Cards",
+            "text": "Cards Physical replacement",
+            "id": "f821b28f-ba7c-40b4-93f3-20cf3d7f6c59"
+        },
+        {
+            "department": "Cards",
+            "text": "Cards Virtual activation",
+            "id": "3ae2a001-21f1-4e8d-b04b-f7eeb1e337e6"
+        },
+        {
+            "department": "Cards",
+            "text": "Cards transactions declined dispute/frozen/funds/limit/client side",
+            "id": "12d703b5-7b8f-4ab6-a9f8-695636aac6e4"
+        },
+        {
+            "department": "Cards",
+            "text": "Cards transactions unauthorised fraud",
+            "id": "0804aea0-2f39-40ed-93e1-a8437c26cad5"
+        },
+        {
+            "department": "Invoicing",
+            "text": "Invoice Paid conflict",
+            "id": "183a780c-90dd-46a0-82de-63da2c0d05a3"
+        },
+        {
+            "department": "Invoicing",
+            "text": "Invoice Unpaid pending",
+            "id": "bf4231bf-4354-48cc-8c85-a24754f13464"
+        },
+        {
+            "department": "Invoicing",
+            "text": "Invoice Unpaid conflict",
+            "id": "145a8573-84d8-4f18-a912-f19a7c271e7c"
+        },
+        {
+            "department": "Invoicing",
+            "text": "Invoice Schedule late",
+            "id": "5fdb57cb-9b2b-4a9e-b86a-bc5e986f3593"
+        },
+        {
+            "department": "Invoicing",
+            "text": "Invoice drafting/editing",
+            "id": "232068de-6a63-4556-b03f-030c8b6d1d26"
+        },
+        {
+            "department": "Invoicing",
+            "text": "Invoice cancel",
+            "id": "d56a7a11-2b97-41b6-b858-dd00492b43d9"
+        },
+        {
+            "department": "Invoicing",
+            "text": "Invoice notification",
+            "id": "5a11e4d1-c6c7-4e24-888a-aeb88ad454e7"
+        },
+        {
+            "department": "Checks",
+            "text": "Checks Mobile Delivery Delayed",
+            "id": "1e402d8b-0f73-41c5-b24f-2b2a5fbaee42"
+        },
+        {
+            "department": "Checks",
+            "text": "Checks Mobile Deposite delay",
+            "id": "0dba2269-0d3f-4d49-92e1-d6b745c11157"
+        },
+        {
+            "department": "Checks",
+            "text": "Checks Mailed Delivery Delayed",
+            "id": "b4cd9a5c-b713-4ac3-9e88-25f09f1b6e11"
+        },
+        {
+            "department": "Checks",
+            "text": "Checks Mailed Deposit delay",
+            "id": "ed37a57c-e13d-4fad-83d0-6a3bf08b04f1"
+        },
+        {
+            "department": "Checks",
+            "text": "Checks Issuance unauthorised fraud",
+            "id": "8940b9f6-1df5-4579-bd41-2d354d00bca2"
+        },
+        {
+            "department": "Transfers",
+            "text": "Transfers Domestic",
+            "id": "69e6c862-8076-4395-ad03-e4746aeb46e4"
+        },
+        {
+            "department": "Transfers",
+            "text": "Transfers International Transfer fees",
+            "id": "3bf5cfc3-df0e-4f10-b700-7f8ebdc728d2"
+        },
+        {
+            "department": "Transfers",
+            "text": "Transfers International Currency conversion",
+            "id": "acfda9bc-3bcd-4635-9194-3d2d7cc3bad9"
+        },
+        {
+            "department": "Transfers",
+            "text": "Transfers International Wise gateway",
+            "id": "083479c6-1135-4364-8118-6b372117c895"
+        },
+        {
+            "department": "Transfers",
+            "text": "Transfers unauthorised lost funds fraud",
+            "id": "fd634c73-6351-403e-a1d0-56b2ceb71cd1"
+        },
+        {
+            "department": "Customer Service",
+            "text": "Customer Service Response late",
+            "id": "3e9d40e1-84e8-47e0-ab39-fe1e2edccf27"
+        },
+        {
+            "department": "Customer Service",
+            "text": "Customer Service Response issue unsolved",
+            "id": "06fd9fbd-65b3-475b-b418-6d556f1a70ed"
+        },
+        {
+            "department": "Customer Service",
+            "text": "Customer Service No Response",
+            "id": "1ec8b74a-d2d3-41a3-bf7f-cfb2a65fbe14"
+        }
+    ]
+}
