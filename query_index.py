@@ -26,11 +26,11 @@ def index_query(query, index_path, collection_name, top_n=1):
     return top_n_data
 
 if __name__ == "__main__":
-    transcription_path = r'C:\Users\Navya\Desktop\ayush_project\indexes\collection_my_index'
+    transcription_path = r'"E:\ayush_project\indexes\collection_my_index"'
     collection_name = 'collection_my'
     # query = "Novo allowed our account to be hacked!!! Do not use Novo. More than $8000 was stolen from our business account. We reported this to Novo and no one from the fraud department or anywhere else has contacted us back to resolve the issue nor have we been offered the protected amount of $250,000 that our money will be protected, was not protected at all, this bank is the worst. Novoâ€™s agent is responsible for the hack. They allowed our business email address to be changed by a hacker and allowed our account to be broken into and no one is trying to fix it on Novo side."
     # top_n = 1
-    csv_path=r'C:\Users\Navya\Desktop\ayush_project\Book4.csv'
+    csv_path=r'"E:\ayush_project\Training_data\Book4.csv"'
 
     df = pd.read_csv(csv_path)
     
@@ -53,7 +53,7 @@ if __name__ == "__main__":
             except Exception as e:
                 print(f"Error processing row {idx}: {e}")
     
-    output_csv_path = r'C:\Users\Navya\Desktop\ayush_project\res_book4.csv'
+    output_csv_path = r'"E:\ayush_project\res_book1.csv".csv'
     df.to_csv(output_csv_path, index=False)
     
     print(f"Results saved to {output_csv_path}")
