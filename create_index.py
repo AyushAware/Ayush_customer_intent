@@ -43,7 +43,7 @@ def index_create(transcription_path, path, name):
 
 if __name__ == "__main__":
     index_create(
-        r'C:\Users\Navya\Desktop\ayush_project\groups_final.json',
-        r'C:\Users\Navya\Desktop\ayush_project\indexes',
+        r'E:\ayush_project\groups_final.json',
+        r'E:\ayush_project\indexes',
         'collection_my'
     )
