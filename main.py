@@ -8,7 +8,7 @@ import json
 import uuid
 
 
-with open('C:\\Users\\Navya\\Desktop\\ayush_project\\intent.json', 'r') as f:
+with open('"E:\ayush_project\intent.json"', 'r') as f:
     data=json.load(f)
 
 result = {"groups": []}
@@ -21,7 +21,7 @@ for department, texts in data.items():
             "id": str(uuid.uuid4())
         })
 
-file_path = r'C:\Users\Navya\Desktop\ayush_project\groups_final.json'
+file_path = r'"E:\ayush_project\groups_final.json"'
 with open(file_path, 'w') as file:
     json.dump(result, file, indent=4)
 
